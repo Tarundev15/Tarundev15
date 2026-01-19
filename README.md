@@ -1,6 +1,9 @@
 # 💫 About Me:
 Hi, I’m Tarun (aka Dada)<br><br>💻 Full-Stack Developer | Java & Angular<br>🚀 Building scalable web applications with clean UI & solid backend logic<br><br>I have 2+ years of experience working with Java (Spring Boot) and Angular, mainly on enterprise-level HRMS & leave management systems. I enjoy converting business requirements into well-structured, user-friendly applications.<br><br>🛠️ Tech Stack<br><br>Frontend: Angular, TypeScript, PrimeNG, HTML, CSS<br><br>Backend: Java 17, Spring Boot, REST APIs<br><br>Database: MySQL, SQL Server<br><br>Tools: Git, GitHub, VS Code, IntelliJ<br><br>Others: Reactive Forms, Role-based access, API integrations<br><br>🌱 Currently Learning<br><br>System design basics<br><br>Linux fundamentals & RHCSA path<br><br>Security & backend optimization<br><br>🎯 Interests<br><br>Cars 🚗 | Fitness 💪 | Photography 📸 | Coding 💻 | Music 🎶<br><br>📫 Let’s Connect<br><br>Always open to learning, collaboration, and building something impactful.
 
+![Java](https://img.shields.io/badge/Java-Engine-red?style=for-the-badge)
+![Angular](https://img.shields.io/badge/Angular-Control-red?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Backend-Strong%20Pull-black?style=for-the-badge)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tarun-devasheesh-36103316b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tarundevasheesh@gmail.com) 
