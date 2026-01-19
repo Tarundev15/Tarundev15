@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi, I’m Tarun (aka Dada)<br><br>💻 Full-Stack Developer | Java & Angular<br>🚀 Building scalable web applications with clean UI & solid backend logic<br><br>🛠️ Tech Stack<br><br>Frontend: Angular, TypeScript, PrimeNG, HTML, CSS<br><br>Backend: Java 17, Spring Boot, REST APIs<br><br>Database: MySQL, SQL Server<br><br>Tools: Git, GitHub, VS Code, IntelliJ<br><br>Others: Reactive Forms, Role-based access, API integrations<br>
 
 ## 🌐 Socials:
